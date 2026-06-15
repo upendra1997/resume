@@ -1,7 +1,18 @@
+- company: Stripe
+  roles:
+    - role: Software Engineer
+      date: November 2024 - Present
+      details: |
+        - Implemented new address requirements for 10k+ Indian users to comply with regulations, impacting ~$40M in T35d PV.
+        - Audited high-PV merchants post-INORR, enabling payout restoration for accounts and creating runbooks for FIU reporting.
+        - Auditing third party providers for verifications accuracy.
+
+        **Tags**: Ruby | Mongo
+
 - company: Gojek
   roles:
     - role: Senior Software Engineer
-      date: November 2021 - Present
+      date: November 2021 - November 2024
       details: |
         Worked with Fraud and Sanctions team at [GoPay](https://www.gojek.com/en-id/gopay) in payments domain.
         - Lead project for *Gopay Savings* integration with risk rule engine, and its integration with *segmentation service* to prevent promotion abuse. This required tight collaboration across multiple microservices and teams and had monthly savings of **~120M IDR**.
